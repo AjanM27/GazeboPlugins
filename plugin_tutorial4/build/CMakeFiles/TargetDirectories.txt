@@ -1,3 +1,0 @@
-/home/ajanm27/pfiles/Robotics/myrobot/plugin_tutorial4/build/CMakeFiles/rebuild_cache.dir
-/home/ajanm27/pfiles/Robotics/myrobot/plugin_tutorial4/build/CMakeFiles/edit_cache.dir
-/home/ajanm27/pfiles/Robotics/myrobot/plugin_tutorial4/build/CMakeFiles/world_edit.dir
